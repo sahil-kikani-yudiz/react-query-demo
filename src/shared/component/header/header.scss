@@ -1,0 +1,19 @@
+.header{
+    background-color: black;
+    height: 50px;
+
+    .registration-icon{
+        font-size: 25px;
+        color: white;
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        text-align: center;
+        padding: 15px;
+
+        :hover{
+            color: aqua;
+        }
+    }
+}
+
